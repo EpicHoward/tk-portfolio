@@ -1,0 +1,90 @@
+/*
+ Theme Name:   tk-myportfolio
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Twenty Fifteen Child Theme
+ Author:       Eric R. Howard
+ Author URI:   http://example.com
+ Template:     _tk-master
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fifteen-child
+*/
+
+
+.site-header {
+
+    background-color: #2196F3;
+}
+
+
+
+nav.site-navigation {
+
+
+ background-color: #2196F3;
+
+}
+
+
+
+p.site-description.lead {
+    color: #FFFFFF;
+}
+
+
+
+a {
+    color: #212121;
+    text-decoration: none;
+}
+
+
+h3.widget-title {
+    color: #212121;
+}
+
+
+
+
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color:#727272 ;
+    background-color: #fff;
+}
+
+.site-header a {
+
+color: #FFFFFF;
+
+}
+
+.navbar-default {
+
+background-color: #1976D2;
+
+border-color: #1976D2;
+
+
+}
+
+
+
+.navbar-default .navbar-nav>li>a {
+    color:#FFFFFF;
+}
+
+
+
+
+
+.navbar-default .navbar-brand {
+    color: #FFFFFF;
+}
+
+
+s
+
