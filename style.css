@@ -107,3 +107,12 @@ border-color: #1976D2;
  .navbar-default .navbar-toggle:hover {
     background-color: #337ab7;
 }
+
+
+
+
+
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #f0ffff;
+    background-color: #1976d2;
